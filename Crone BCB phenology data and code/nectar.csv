@@ -1,0 +1,504 @@
+﻿PlantID,CommonName,Label,Absorbance,Concentration,NumberWashed,ConcFlower,DateAnalyzed,AnalysisNotes,State,Site,CollectionNotes,DateBagged,TimeBagged,DateCollected,TimeCollected,HoursInCooler,DateNeg80,DaysNeg20 ,DaysNeg80 ,TransitDate,Melted
+Asclepias syriaca,common milkweed,7,-0.364,250.55,1,250.55,11/15/19,,Maryland,Nuetzel,,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Asclepias syriaca,common milkweed,1,0.148,372.29,1,372.29,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,2,-0.266,273.705,1,273.705,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,3,-1.344,17.413,1,17.413,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,4,-0.944,112.551,1,112.551,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,5,0.284,404.597,1,404.597,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,6,-0.996,100.189,1,100.189,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,8,-1.08,80.244,1,80.244,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,9,-0.325,259.679,1,259.679,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,10,0.16,374.976,1,374.976,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,11,-0.014,333.659,1,333.659,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,12,-0.59,196.729,1,196.729,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,13,0.692,501.517,1,501.517,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,14,0.102,361.235,1,361.235,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,15,0.484,452.047,1,452.047,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,16,0.286,404.906,1,404.906,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,17,-0.92,118.232,1,118.232,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,18,0.07,353.581,1,353.581,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,19,0.533,463.766,1,463.766,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Asclepias syriaca,common milkweed,20,0.154,373.478,1,373.478,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,18,-0.958,109.222,1,109.222,11/15/19,,Maryland,Nuetzel,,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Cornus sericea,dogwood,19,-0.786,150.206,1,150.206,11/15/19,,Maryland,Nuetzel,,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Cornus sericea,dogwood,20,-0.988,102.162,1,102.162,11/15/19,,Maryland,Nuetzel,,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Cornus sericea,dogwood,1,-0.997,99.975,1,99.975,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,2,-1.086,78.794,1,78.794,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,3,-1.088,78.413,1,78.413,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,4,-1.11,73.112,1,73.112,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,5,-1.11,73.112,1,73.112,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,6,-1.209,49.601,1,49.601,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,7,-1.193,53.476,1,53.476,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,8,-0.972,105.847,1,105.847,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,9,-1.095,76.559,1,76.559,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,10,-1.247,40.591,1,40.591,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,11,-1.411,1.58,1,1.58,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,12,-1.073,81.908,1,81.908,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,13,-0.947,111.933,1,111.933,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,14,-1.109,73.302,1,73.302,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,15,0.155,373.835,1,373.835,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,16,-1.062,84.428,1,84.428,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Cornus sericea,dogwood,17,-1.086,78.817,1,78.817,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,9,-0.047,3.507,NA,NA,11/15/19,,Maryland,Nuetzel,don’t have picture to count open florets: ask Alexandra,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,10,0.19,57.394,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,11,0.058,27.34,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,12,0.122,41.9,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,13,0.182,55.662,28,1.987928571,11/15/19,,Maryland,Nuetzel,florets counted from kind of blurry picture,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,14,0.279,77.695,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,15,0.365,97.222,40,2.43055,11/15/19,,Maryland,Nuetzel,florets counted from blurry picture,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,16,0.028,20.596,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,17,0.256,72.5,7,10.35714286,11/15/19,,Maryland,Nuetzel,florets counted from blurry picture,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,18,-0.06,0.408,13,0.031384615,11/15/19,,Maryland,Nuetzel,florets counted from blurry picture,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,19,0.282,78.356,53,1.478415094,11/15/19,,Maryland,Nuetzel,florets counted from blurry picture,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,20,0.123,42.082,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,21,0.218,63.91,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,22,0.141,46.32,NA,NA,11/15/19,,Maryland,Nuetzel,picture too blurry to count open florets,6/28/19,NA,6/29/19,NA,1,7/1/19,2,137,7/1/19,N
+Erigeron annuus,fleabane,1,-0.042,4.487,85,0.052788235,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,2,-0.221,-36.139,48,-0.752895833,11/15/19,,Maryland,Nuetzel,florets counted from kind of blurry picture,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,3 or 8,-0.076,-3.237,NA,NA,11/15/19,"2 sets of tubes labeled aster 3, no aster 8",Maryland,Nuetzel,128 florets or unknown depending on if it's sample 3 or 8,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,4,-0.174,-25.43,145,-0.17537931,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,5,-0.014,10.958,119,0.092084034,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,6,0.143,46.639,110,0.423990909,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,7,-0.047,3.416,122,0.028,11/15/19,,Maryland,Nuetzel,,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Erigeron annuus,fleabane,3 or 8,0.059,27.682,NA,NA,11/15/19,"2 sets of tubes labeled aster 3, no aster 8",Maryland,Nuetzel,128 florets or unknown depending on if it's sample 3 or 8,6/25/19,NA,6/26/19,NA,2,7/1/19,5,137,7/1/19,N
+Lonicera japonica,honeysuckle,1,0.32,413.083,1,413.083,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,2,-0.975,105.181,1,105.181,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,3,0.611,482.143,1,482.143,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,4,0.327,414.605,1,414.605,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,5,-0.285,269.212,1,269.212,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,6,-0.607,192.593,1,192.593,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,7,0.27,401.126,1,401.126,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,8,-0.729,163.59,1,163.59,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,9,-0.258,275.749,1,275.749,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,10,-0.214,286.138,1,286.138,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,11,0.058,350.894,1,350.894,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Lonicera japonica,honeysuckle,1,-0.429,234.979,1,234.979,11/15/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Lonicera japonica,honeysuckle,2,-0.51,215.652,1,215.652,11/15/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Lonicera japonica,honeysuckle,3,-1.067,83.405,1,83.405,11/15/19,,Maryland,Nuetzel,may be past. was foamy in vial (have picture),6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Lonicera japonica,honeysuckle,4,0.496,454.947,1,454.947,11/15/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Lonicera japonica,honeysuckle,6,0.068,353.176,1,353.176,11/15/19,,Maryland,Nuetzel,"flower came apart, still able to wash it",6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Lonicera japonica,honeysuckle,7,-0.567,202.173,1,202.173,11/15/19,,Maryland,Nuetzel,may be past,6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Lonicera japonica,honeysuckle,8,0.034,345.094,1,345.094,11/15/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,7/1/19,19,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,1,-1.166,59.799,1,59.799,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,2,-1.06,84.998,1,84.998,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,3,-1.567,-35.6,1,-35.6,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,4,-0.962,108.295,1,108.295,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,5,-0.887,126.149,1,126.149,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,6,-1.091,77.605,1,77.605,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,7,-1.183,55.758,1,55.758,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,8,-1.167,59.562,1,59.562,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,9,-1.056,85.997,1,85.997,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,10,-1.083,79.531,1,79.531,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Ranunculus bulbosus,buttercup,1,0.31,84.804,1,84.804,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,2,-0.14,-17.751,1,-17.751,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,3,-0.066,-0.845,1,-0.845,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,4,0.114,40.077,1,40.077,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,5,-0.099,-8.341,1,-8.341,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,6,-0.3,-54.298,1,-54.298,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,7,-0.095,-7.612,1,-7.612,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,8,0.118,41.057,1,41.057,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,9,-0.032,6.788,1,6.788,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,10,0.212,62.543,1,62.543,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,11,0.221,64.457,1,64.457,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,12,-0.236,-39.625,1,-39.625,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,14,0.114,40.214,1,40.214,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,15,-0.111,-11.235,1,-11.235,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,16,-0.187,-28.529,1,-28.529,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,17,-0.095,-7.612,1,-7.612,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,18,-0.325,-59.835,1,-59.835,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,19,-0.33,-61.066,1,-61.066,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,20,-0.525,-105.451,1,-105.451,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,21,-0.023,8.793,1,8.793,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,1,0.377,100.047,2,50.0235,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,2,0.149,48.166,2,24.083,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,3,0.599,150.516,3,50.172,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,4,0.321,87.174,2,43.587,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,5,0.081,32.626,2,16.313,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,6,0.692,171.866,2,85.933,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,7,0.065,29.049,2,14.5245,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,8,0.3,82.526,2,41.263,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,9,0.446,115.769,2,57.8845,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,10,0.44,114.379,2,57.1895,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,11,0.341,91.776,2,45.888,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,12,-0.078,-3.533,2,-1.7665,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,13,0.03,20.938,2,10.469,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,14,0.167,52.176,2,26.088,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,15,0.179,54.842,3,18.28066667,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,16,0.258,72.888,2,36.444,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,17,0.062,28.229,3,9.409666667,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,18,-0.223,-36.731,2,-18.3655,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,19,0.177,54.455,2,27.2275,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rhinanthus minor,yellow rattle,20,0.494,126.615,2,63.3075,11/15/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,1,0.134,44.748,1,44.748,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,2,0.079,32.239,1,32.239,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,3,0.029,20.824,1,20.824,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,4,0.273,76.305,1,76.305,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,5,0.115,40.351,1,40.351,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,6,-0.276,-48.693,1,-48.693,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,10,0.035,22.1,1,22.1,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,11,-0.12,-13.103,1,-13.103,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,12,0.379,100.412,1,100.412,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,13,0.095,35.725,1,35.725,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,14,-0.007,12.621,1,12.621,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,15,0.043,23.9,1,23.9,11/15/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rubus allegheniensis,blackberry,1,-0.868,130.642,1,130.642,11/15/19,,Maryland,McEwain,was a flower that was 3/4 of the way open,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,2,0.525,461.841,1,461.841,11/15/19,,Maryland,McEwain,foamy in vial,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,3,-0.802,146.403,1,146.403,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,4,0.258,398.321,1,398.321,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,5,0.537,464.717,1,464.717,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,6,-1.168,59.419,1,59.419,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,7,-0.413,238.902,1,238.902,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,8,0.206,385.959,1,385.959,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,9,-0.801,146.545,1,146.545,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,10,-0.996,100.189,1,100.189,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,11,-0.19,291.724,1,291.724,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,12,-0.024,331.306,1,331.306,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,13,0.073,354.222,1,354.222,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,15,-0.803,146.094,1,146.094,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,16,-1.315,24.283,1,24.283,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,17,0.064,352.202,1,352.202,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,18,-0.524,212.372,1,212.372,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Rubus allegheniensis,blackberry,19,-1.166,59.799,1,59.799,11/15/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,137,7/1/19,N
+Achillea millefolium,yarrow,1,-0.065,-8.247,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,2,0.008,12.134,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,3,-0.116,-22.515,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,4,0.049,23.442,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,5,-0.13,-26.368,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,7,-0.103,-18.913,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,8,-0.107,-19.918,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,9,0.091,35.252,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,10,-0.101,-18.243,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,11,-0.123,-24.441,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,13,-0.121,-24.05,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,14,0.061,26.988,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,15,0.14,49.045,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,16,-0.135,-27.736,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,17,-0.138,-28.769,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,19,-0.072,-10.258,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,20,-0.141,-29.467,NA,NA,11/18/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Apocynum cannabinum,dogbane,1,-0.078,-11.821,5,-2.3642,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,2,0.088,34.387,5,6.8774,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,3,1.371,392.77,5,78.554,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,4,1.858,528.49,5,105.698,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,5,1.509,431.216,5,86.2432,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,6,1.679,478.597,5,95.7194,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,7,1.83,520.784,5,104.1568,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,8,0.149,51.586,5,10.3172,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,9,0.224,72.358,5,14.4716,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,10,0.551,163.685,5,32.737,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,11,0.114,41.59,5,8.318,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,13,-0.076,-11.319,5,-2.2638,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,14,0.002,10.515,5,2.103,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Apocynum cannabinum,dogbane,15,0.129,45.918,5,9.1836,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Daucus carota,queen annes lace,1,0.022,15.932,25,0.63728,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,2,0.335,103.377,24,4.307375,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,3,1.172,337.097,15,22.47313333,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,4,-0.262,-63.222,21,-3.010571429,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,5,0.264,83.666,31,2.698903226,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,6,0.127,45.276,31,1.460516129,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,7,-0.028,2.167,40,0.054175,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,8,-0.447,-114.875,19,-6.046052632,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,9,0.395,120.102,34,3.532411765,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,10,0.248,79.115,31,2.552096774,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,11,0.092,35.476,34,1.043411765,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,12,0.038,20.594,31,0.664322581,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,13,-0.015,5.657,33,0.171424242,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,14,0.088,34.471,31,1.111967742,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,15,0.294,91.902,31,2.964580645,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,17,-0.051,-4.366,34,-0.128411765,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Daucus carota,queen annes lace,18,-0.104,-19.276,36,-0.535444444,11/18/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,102,NA,NA
+Pilosella caespitosa,hawkweed,1,0.366,112.005,1,112.005,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,2,0.172,57.923,1,57.923,11/18/19,,Massachusetts,Upton,May be contaminated,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,3,0.19,62.977,1,62.977,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,4,-0.138,-28.797,1,-28.797,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,5,-0.254,-60.933,1,-60.933,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,6,-0.384,-97.48,1,-97.48,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,7,0.12,43.433,1,43.433,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,8,-0.009,7.388,1,7.388,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,9,0.165,55.885,1,55.885,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,10,0.159,54.154,1,54.154,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,11,0.014,13.837,1,13.837,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,12,-0.111,-21.146,1,-21.146,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,13,0.003,10.683,1,10.683,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,14,-0.231,-54.623,1,-54.623,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Pilosella caespitosa,hawkweed,15,-0.01,7.081,1,7.081,11/18/19,,Massachusetts,Upton,,6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Rudbeckia hirta,black eyed susan,13,-0.286,-70.063,31,-2.260096774,11/18/19,,Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,14,0.148,51.111,52,0.982903846,11/18/19,"sample looked yellow, maybe from pollen",Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,15,0.447,134.536,41,3.281365854,11/18/19,"sample looked somewhat yellow, maybe from pollen",Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,16,1.025,295.999,63,4.698396825,11/18/19,"sample looked yellow, maybe from pollen",Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,17,0.038,20.594,27,0.762740741,11/18/19,"sample looked somewhat yellow, maybe from pollen",Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,18,0.155,53.121,43,1.235372093,11/18/19,,Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,19,0,9.761,55,0.177472727,11/18/19,"sample looked somewhat yellow, maybe from pollen",Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,20,-0.056,-5.874,46,-0.127695652,11/18/19,,Massachusetts,Upton,,7/1/19,10:20-10:40,7/2/19,10:20-11,5,7/7/19,5,134,NA,NA
+Rudbeckia hirta,black eyed susan,1,0.301,93.885,67,1.401268657,11/18/19,"sample looked somewhat yellow, maybe from pollen",Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,2,-0.017,5.182,70,0.074028571,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,3,0.057,25.704,12,2.142,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,4,0.714,209.195,69,3.031811594,11/18/19,"sample looked yellow, maybe from pollen",Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,5,0.249,79.394,11,7.217636364,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,6,0.441,132.861,73,1.820013699,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,7,-0.168,-37.061,34,-1.090029412,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,8,0.598,176.696,49,3.606040816,11/18/19,"sample looked yellow, maybe from pollen",Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,9,-0.198,-45.325,49,-0.925,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,10,0.905,262.578,56,4.688892857,11/18/19,"sample looked yellow, maybe from pollen",Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,11,0.207,67.612,63,1.073206349,11/18/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Rudbeckia hirta,black eyed susan,12,0.495,148.134,49,3.023142857,11/18/19,"sample looked yellow, maybe from pollen",Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,134,NA,NA
+Daucus carota,queen annes lace,16,0.577,-63.428,32,-1.982125,11/19/19,,Massachusetts,Tufts,,7/30/19,9:50-10:00,7/31/19,9:40-10:00,4.75,8/8/19,8,103,NA,NA
+Galium mollugo,hedge bedstraw,1,0.832,19.561,5,3.9122,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,2,0.471,-98.262,6,-16.377,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,3,0.436,-109.591,5,-21.9182,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,4,0.467,-99.535,5,-19.907,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,5,0.456,-102.963,5,-20.5926,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,6,0.491,-91.57,5,-18.314,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,7,0.558,-69.565,5,-13.913,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,8,0.393,-123.759,5,-24.7518,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,9,0.46,-101.788,5,-20.3576,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,10,0.483,-94.345,6,-15.72416667,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,11,0.468,-99.111,5,-19.8222,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,12,0.785,4.511,5,0.9022,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,13,0.563,-68.064,5,-13.6128,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,14,0.601,-55.821,5,-11.1642,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,15,0.631,-46.06,5,-9.212,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,16,0.687,-27.516,5,-5.5032,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,17,0.593,-58.204,5,-11.6408,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,18,-0.744,-494.825,5,-98.965,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,19,2.391,528.756,5,105.7512,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Galium mollugo,hedge bedstraw,21,0.783,3.858,5,0.7716,11/19/19,,Massachusetts,Upton,labled 21 instead of 20,6/15/19,9:30-10:30,6/16/19,9:30-10:30,5,NA,NA,NA,NA,NA
+Lonicera japonica,honeysuckle,5,1.114,111.788,1,111.788,11/19/19,,Maryland,Nuetzel,may be past. was foamy in vial (have picture),6/11/19,NA,6/12/19,NA,2,7/1/19,19,141,7/1/19,N
+Potentilla simplex,common cinquefoil,1,0.782,3.27,1,3.27,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,2,0.621,-49.063,1,-49.063,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,3,0.861,29.159,1,29.159,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,4,0.62,-49.422,1,-49.422,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,5,0.443,-107.371,1,-107.371,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,6,0.693,-25.753,1,-25.753,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,7,0.689,-27.092,1,-27.092,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,8,0.627,-47.202,1,-47.202,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,9,0.589,-59.478,1,-59.478,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,10,0.65,-39.661,1,-39.661,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,11,0.709,-20.432,1,-20.432,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,12,0.62,-49.422,1,-49.422,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,14,0.648,-40.314,1,-40.314,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,15,0.546,-73.777,1,-73.777,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,16,0.576,-64.015,1,-64.015,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Potentilla simplex,common cinquefoil,17,0.611,-52.426,1,-52.426,11/19/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Ranunculus bulbosus,buttercup,13,0.326,-145.404,1,-145.404,11/19/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,7,0.648,-40.281,1,-40.281,11/19/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,8,0.631,-45.864,1,-45.864,11/19/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rosa multiflora,multiflora rose,9,0.787,5,1,5,11/19/19,,Massachusetts,Harvard,,6/28/19,9:50-10:20,6/29/19,10:00-11:00,4.25,NA,NA,NA,NA,NA
+Rubus allegheniensis,blackberry,14,1.121,114.106,1,114.106,11/19/19,"not quite enough liquid in sample, used anyway",Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,141,7/1/19,N
+Solidago altissima,tall goldenrod,1,0.859,28.604,13,2.200307692,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,2,0.484,-94.018,7,-13.43114286,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,3,0.615,-51.12,8,-6.39,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,6,0.797,8.298,10,0.8298,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,8,0.979,67.715,10,6.7715,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,9,0.436,-109.427,4,-27.35675,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,10,0.58,-62.579,10,-6.2579,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,11,0.984,69.184,6,11.53066667,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,12,0.616,-50.663,14,-3.618785714,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,13,0.643,-42.109,7,-6.015571429,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,14,0.477,-96.042,8,-12.00525,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,15,0.596,-57.225,14,-4.0875,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,16,0.379,-128.134,6,-21.35566667,11/19/19,"thawed SA10 instead of SA16, then couldn't find SA16",Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,17,0.593,-58.335,15,-3.889,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,18,1.052,91.58,13,7.044615385,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,19,0.456,-103.094,7,-14.72771429,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,20,0.975,66.279,11,6.025363636,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Solidago altissima,tall goldenrod,21,0.62,-49.422,15,-3.2948,11/19/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,104,NA,NA
+Vicia cracca,tufted vetch,1,1.567,259.614,5,51.9228,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,2,2.43,541.586,5,108.3172,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,3,1.93,378.351,5,75.6702,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,4,1.825,343.908,5,68.7816,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,5,2.205,467.934,5,93.5868,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,6,0.881,35.786,5,7.1572,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,7,2.095,432.023,5,86.4046,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,8,1.675,294.938,5,58.9876,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,9,0.878,34.676,5,6.9352,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,11,0.798,8.591,5,1.7182,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,12,0.578,-63.199,5,-12.6398,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,13,1.356,190.696,5,38.1392,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,14,2.405,533.359,5,106.6718,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,15,2.474,555.787,5,111.1574,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,16,1.448,220.666,5,44.1332,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,17,1.42,211.59,5,42.318,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,18,1.017,80.023,5,16.0046,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,19,1.822,343.027,5,68.6054,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Vicia cracca,tufted vetch,20,1.623,278.092,5,55.6184,11/19/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Apocynum cannabinum,dogbane,12,0.248,86.254,5,17.2508,11/20/19,,Massachusetts,Upton,,6/30/19,10:10-11:00,7/1/19,10:20-11,5,7/7/19,6,136,NA,NA
+Cirsium arvense,thistle,1,1.065,325.935,60,5.43225,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,2,1.456,440.857,48,9.184520833,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,3,1.425,431.754,50,8.63508,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,4,1.112,339.764,41,8.286926829,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,5,1.63,491.887,73,6.738178082,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,6,1.067,326.639,33,9.898151515,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,7,0.633,199.326,50,3.98652,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,8,1.75,527.268,29,18.18165517,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,9,2.152,645.127,70,9.2161,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,10,2.168,650.03,69,9.420724638,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,11,2.03,609.481,60,10.15801667,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,12,1.632,492.592,46,10.70852174,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,13,1.726,520.28,57,9.127719298,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,14,1.161,354.298,46,7.702130435,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,15,1.714,516.581,75,6.887746667,11/20/19,,Maryland,Nuetzel,"thistles 15 to 20 from same plant, others 2 or 3 to a plant",6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,16,1.905,572.574,66,8.675363636,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,17,1.385,419.863,54,7.775240741,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,18,1.474,446.23,47,9.494255319,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,19,1.622,489.656,41,11.94282927,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Cirsium arvense,thistle,20,1.857,558.686,46,12.14534783,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,1,-0.056,-3.006,1,-3.006,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,2,0.062,31.612,1,31.612,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,3,0.129,51.108,1,51.108,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,4,-0.111,-19.36,1,-19.36,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,5,-0.281,-69.128,1,-69.128,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,6,0.488,156.517,1,156.517,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,7,0.754,234.884,1,234.884,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,8,0.327,109.479,1,109.479,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,9,0.337,112.357,1,112.357,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,10,0.114,46.88,1,46.88,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,11,-0.137,-26.965,1,-26.965,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,12,-0.159,-33.425,1,-33.425,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,13,-0.097,-15.073,1,-15.073,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,14,0.399,130.532,1,130.532,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,15,0.065,32.493,1,32.493,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,16,-0.02,7.535,1,7.535,11/20/19,"2 sets of tubes labeled as galium 16, no galium 18",Maryland,Nuetzel,"2 tubes labeled 16, no tube labeled 18",6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,17,0.806,250.152,1,250.152,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,16,0.617,194.394,1,194.394,11/20/19,"2 sets of tubes labeled as galium 16, no galium 18",Maryland,Nuetzel,"2 tubes labeled 16, no tube labeled 18",6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,19,0.568,180.036,1,180.036,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Galium sp,galium sp,20,0.109,45.412,1,45.412,11/20/19,,Maryland,Nuetzel,,6/11/19,NA,6/12/19,NA,2,6/15/19,1,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,4,0.914,281.628,1,281.628,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,10,0.365,120.549,1,120.549,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,7,0.087,38.923,1,38.923,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,9,-0.132,-25.526,1,-25.526,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,13,-0.197,-44.347,1,-44.347,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,14,-0.075,-8.761,1,-8.761,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,15,-0.29,-71.742,1,-71.742,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,17,-0.215,-49.779,1,-49.779,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,20,-0.393,-101.955,1,-101.955,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,21,0.539,171.726,1,171.726,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,22,0.867,268.033,1,268.033,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,23,0.795,246.658,1,246.658,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,24,-0.047,-0.393,1,-0.393,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,25,0.462,148.883,1,148.883,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,27,-0.175,-37.888,1,-37.888,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,28,-0.006,11.675,1,11.675,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,30,-0.139,-27.435,1,-27.435,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,31,-0.094,-14.281,1,-14.281,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Glechoma hederacea,creeping charlie,42,-0.155,-32.103,1,-32.103,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Potentilla canadensis,dwarf cinquefoil,11,0.599,189.109,1,189.109,11/20/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,142,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,12,0.411,133.908,1,133.908,11/20/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,142,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,13,-0.022,7.036,1,7.036,11/20/19,,Maryland,McEwain,,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,142,7/1/19,N
+Potentilla canadensis,dwarf cinquefoil,14,-0.16,-33.571,1,-33.571,11/20/19,,Maryland,McEwain,foamy in vial,6/26/19,NA,6/27/19,NA,2.5,7/1/19,4,142,7/1/19,N
+Viburnum dentatum,viburnum,1,-0.053,-2.154,1,-2.154,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,2,0.671,210.337,1,210.337,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,6,0.738,229.98,1,229.98,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,8,0.958,294.782,1,294.782,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,11,0.227,79.971,1,79.971,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,16,-0.018,7.946,1,7.946,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,18,-0.248,-59.498,1,-59.498,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,19,-0.182,-40.207,1,-40.207,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,26,-0.023,6.713,1,6.713,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,29,-0.242,-57.824,1,-57.824,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,32,-0.135,-26.407,1,-26.407,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,34,-0.056,-3.094,1,-3.094,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,35,0.726,226.633,1,226.633,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,36,0.36,119.051,1,119.051,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,37,0.605,191.135,1,191.135,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,38,0.042,25.798,1,25.798,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,39,-0.097,-14.985,1,-14.985,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,40,-0.153,-31.633,1,-31.633,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,41,-0.066,-5.913,1,-5.913,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Viburnum dentatum,viburnum,43,-0.066,-5.942,1,-5.942,11/20/19,,Maryland,McEwain,,6/6/19,NA,6/7/19,NA,1,6/15/19,6,158,6/13/19,Y
+Achillea millefolium,yarrow,12,-0.069,-8.335,NA,NA,11/26/19,,Massachusetts,Upton,"5 flower heads washed, but individual florets not counted",6/23/19,10:00-10:30,6/24/19,10:20-11:10,6,NA,NA,NA,NA,NA
+Lysimachia terrestris,swamp candles,1,-0.185,-43.896,2,-21.948,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,2,-0.088,-14.272,2,-7.136,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,3,0.112,47.438,2,23.719,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,4,0.016,17.752,2,8.876,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,5,-0.133,-28.053,2,-14.0265,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,6,-0.111,-21.316,2,-10.658,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,7,-0.176,-41.312,2,-20.656,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,8,-0.13,-27.161,2,-13.5805,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,9,-0.171,-39.712,2,-19.856,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,10,0.123,50.668,2,25.334,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,11,-0.094,-16.025,2,-8.0125,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,12,-0.102,-18.517,2,-9.2585,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,13,-0.085,-13.133,2,-6.5665,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,14,-0.065,-7.012,2,-3.506,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,15,-0.056,-4.397,2,-2.1985,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,16,-0.074,-9.78,2,-4.89,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,17,-0.038,1.263,2,0.6315,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,18,-0.221,-55.124,2,-27.562,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,19,-0.159,-36.052,2,-18.026,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lysimachia terrestris,swamp candles,20,-0.155,-34.913,2,-17.4565,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Lythrum salicaria,purple loosestrife,1,-0.102,-18.363,3,-6.121,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,2,-0.01,9.877,3,3.292333333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,3,0.291,102.503,3,34.16766667,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,4,0.003,13.876,3,4.625333333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,5,0.035,23.659,3,7.886333333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,6,-0.076,-10.519,3,-3.506333333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,7,0.239,86.414,3,28.80466667,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,8,-0.083,-12.518,3,-4.172666667,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,9,0.45,151.323,3,50.441,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,10,0.157,61.312,3,20.43733333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,11,0.482,161.167,3,53.72233333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,12,0.136,54.636,3,18.212,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,13,0.128,52.36,3,17.45333333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,14,-0.021,6.308,3,2.102666667,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Lythrum salicaria,purple loosestrife,15,-0.19,-45.649,3,-15.21633333,11/26/19,,Massachusetts,Tufts,,7/22/19,9:30-9:50,7/23/19,9:45-10:10,0,7/26/19,3,123,NA,NA
+Potentilla simplex,common cinquefoil,13,-0.346,-93.608,1,-93.608,11/26/19,,Massachusetts,Upton,,6/15/19,9:30-10:30,6/16/19,10:30-11:30,5,NA,NA,NA,NA,NA
+Solidago altissima,tall goldenrod,4,0.493,164.459,10,16.4459,11/26/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,111,NA,NA
+Solidago altissima,tall goldenrod,5,0.015,17.383,5,3.4766,11/26/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,111,NA,NA
+Solidago altissima,tall goldenrod,7,0.144,57.22,14,4.087142857,11/26/19,,Massachusetts,Harvard,,7/30/19,10:55-11:15,7/31/19,11-11:30,3.25,8/7/19,7,111,NA,NA
+Stellaria graminea,chickweed,1,-0.019,7.108,1,7.108,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,2,-0.233,-58.754,1,-58.754,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,3,-0.05,-2.459,1,-2.459,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,4,-0.099,-17.656,1,-17.656,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,5,-0.153,-34.175,1,-34.175,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,6,0.012,16.583,1,16.583,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,7,-0.201,-48.88,1,-48.88,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,8,-0.046,-1.382,1,-1.382,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,9,-0.176,-41.404,1,-41.404,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,10,-0.213,-52.725,1,-52.725,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,11,-0.088,-14.241,1,-14.241,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,12,0.073,35.225,1,35.225,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,13,-0.145,-31.591,1,-31.591,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,14,0.161,62.45,1,62.45,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,15,-0.012,9.231,1,9.231,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,16,-0.216,-53.525,1,-53.525,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,17,-0.159,-35.929,1,-35.929,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,18,-0.031,3.355,1,3.355,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,19,-0.13,-27.192,1,-27.192,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Stellaria graminea,chickweed,20,-0.096,-16.579,1,-16.579,11/26/19,,Massachusetts,Harvard,,7/12/19,9:50-10:30,7/13/19,10:00-10:30,6,7/26/19,13,123,NA,NA
+Thalictrum pubescens,tall meadow rue,1,-0.126,-25.992,1,-25.992,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,2,-0.194,-46.88,1,-46.88,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,3,0.004,14.091,1,14.091,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,4,-0.195,-47.218,1,-47.218,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,5,-0.112,-21.655,1,-21.655,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,6,-0.108,-20.209,1,-20.209,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,7,-0.349,-94.377,1,-94.377,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,8,-0.168,-38.82,1,-38.82,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,9,-0.247,-63.123,1,-63.123,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,10,-0.238,-60.354,1,-60.354,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,11,-0.226,-56.662,1,-56.662,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,12,-0.13,-27.253,1,-27.253,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,13,-0.174,-40.543,1,-40.543,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,15,-0.235,-59.462,1,-59.462,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,16,0.018,18.306,1,18.306,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,17,-0.085,-13.195,1,-13.195,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,18,-0.326,-87.271,1,-87.271,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,19,-0.026,5.016,1,5.016,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,20,-0.153,-34.206,1,-34.206,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Thalictrum pubescens,tall meadow rue,14,-0.133,-28.146,1,-28.146,11/26/19,,Massachusetts,Harvard,,7/25/19,10:30-10:45,7/26/19,10:30-10:50,4,8/7/19,12,111,NA,NA
+Vicia cracca,tufted vetch,10,-0.115,-22.547,5,-4.5094,11/26/19,,Massachusetts,Harvard,,6/25/19,9:50-10:20,6/26/19,10:15-11:00,6.5,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL2,0.643,40.447,2,20.2235,8/21/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL3,0.471,20.702,5,4.1404,8/21/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL4,0.937,74.105,9,8.233888889,8/21/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL5,0.936,74.025,15,4.935,8/21/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL1,0.206,-9.73,7,-1.39,8/21/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL6,0.285,10.613,4,2.65325,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL7,0.394,25.747,8,3.218375,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL8,1.082,121.327,10,12.1327,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL9,0.222,1.81,3,0.603333333,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL10,0.258,6.864,NA,NA,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL11,1.817,223.35,39,5.726923077,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL12,0.352,19.874,13,1.528769231,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL13,0.486,38.521,11,3.501909091,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL14,0.898,95.724,15,6.3816,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA
+Achillea millefolium,yarrow,ACHMEL15,0.552,47.629,13,3.663769231,9/10/19,,Washington,Johnson,data collected by Rachael in WA,6/4/19,NA,6/5/19,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,537 @@
+﻿Year,State,Site,PlantID,CommonName,Label,DaysOpen,Notes,StartDate,Day_1,Day_2,Day_3,Day_4,Day_5,Day_6,Day_7,Day_8,Day_9,Day_10,Day_11,Day_12,Day_13,Day_14,Day_15,Day_16,Day_17
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,1P,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,1R,3,,5/28/18,bud,bud,bud,bud,flower,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,1Y,1,,5/28/18,bud,bud,bud,bud,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,2P,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,2R,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,2Y,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,3P,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,3R,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,3Y,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,4P,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,4R,1,,5/28/18,bud,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,4Y,5,,5/28/18,bud,bud,bud,bud,flower,flower,flower,flower,flower,bud,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,5P,3,,5/28/18,bud,bud,bud,bud,flower,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,5R,2,,5/28/18,bud,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,5Y,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,6P,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,bud,bud,bud,done (went right from bud to done),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,6R,3,,5/28/18,bud,bud,bud,bud,flower,flower,flower,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,6Y,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,bud,bud,bud,done (went right from bud to done),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,8P,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,bud,bud,bud,done (went right from bud to done),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,8R,NA,dead,5/28/18,bud,bud,bud,bud,bud,bud,dead?,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Glechoma hederacea,creeping charlie,8Y,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,bud,bud,bud,done (went right from bud to done),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,1,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,2,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud (half open),done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,3,1,,5/28/18,bud,bud,flower,flower (only 1 petal left),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,4,1,,5/28/18,bud,bud,flower (missing almost all petals),done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,5,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,6,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,7,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,8,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,9,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,10,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,11,1,,5/28/18,bud,bud,flower (missing almost all petals),flower (only 1 petal left),flower (2 petals left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,12,1,,5/28/18,bud,bud,flower (missing almost all petals),flower (only 1 petal left),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,13,2,,5/28/18,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,14,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud (half open),done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,15,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud (half open),done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,16,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,17,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,18,1,,5/28/18,bud,bud,flower (missing almost all petals),done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,19,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,20,1,,5/28/18,bud,bud,flower,flower (only 1 petal left),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,21,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,22,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,23,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,24,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Potentilla canadensis,dwarf cinquefoil,25,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,1,2,,5/28/18,bud,bud,flower,flower,done,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,2,3,,5/28/18,bud,bud,flower,flower,flower,flower (only a few petals left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,3,1,,5/28/18,bud,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,4,NA,stem fell off plant while flower was still open,5/28/18,bud,flower,flower,flower,flower,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,5,3,,5/28/18,bud,flower,flower,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,6,3,,5/28/18,bud,flower,flower,flower,done,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,7,3,,5/28/18,bud,bud,flower,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,8,3,,5/28/18,bud,flower,flower,flower,done,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,9,5,,5/28/18,bud,bud,bud,bud,flower,flower,flower,flower,flower,done,done,done,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,10,3,,5/28/18,bud,flower,flower,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,11,3,,5/28/18,bud,flower,flower,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,12,3,,5/28/18,bud,flower,flower,flower,done,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,15,3,,5/28/18,bud,bud,flower,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,16,3,,5/28/18,bud,bud,flower,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,17,2,,5/28/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,18,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,19,5,,5/28/18,bud,bud,bud,bud,bud,flower,flower,flower,flower,flower,done,done,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,20,3,,5/28/18,bud,bud,flower,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,21,2,open 2 or 3 days,5/28/18,bud,bud,?flower?,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,22,NA,dead,5/28/18,bud,bud,bud,bud,bud,bud,dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,23,3,,5/28/18,bud,bud,flower,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,13/14,NA,stem fell off plant while flower was still open,5/28/18,bud,bud,flower,flower,flower,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,24/25,3,,5/28/18,bud,flower,flower,flower,done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,24/25,NA,stem fell off plant while flower was still open,5/28/18,bud,bud,bud,bud,flower,flower,flower,stem fell off,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Ranunculus bulbosus,buttercup,,NA,stem fell off plant while flower was still open,5/28/18,bud,bud,flower,flower,flower,NA (stem fell off plant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,1P,3,,5/28/18,bud,bud,bud,bud,bud,flower,flower,flower,flower (a few petals left),done,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,1R,3,,5/28/18,bud,bud,bud,bud,flower,flower,flower,done,done,done (and 1 flower w 1 petal),done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,1Y,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,done,done,done,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,2R,2,,5/28/18,bud,bud,bud,bud,flower,flower,flower (one petal left),done,NA,done,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,2Y,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,done,NA,done,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,3P,2,,5/28/18,bud,bud,bud,bud,bud,flower,flower,flower (1 petal left),done,done,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,3Y,3,,5/28/18,bud,bud,bud,bud,bud,bud,flower,flower,flower,flower (1 petal left),done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,4Y,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,5P,2,,5/28/18,bud,bud,bud,bud,bud,flower,flower,flower (a few petals left),flower (a few petals left),done,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,5R,2,,5/28/18,bud,bud,bud,bud,flower,flower,flower (one petal left),done,done,done,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,5Y,3,,5/28/18,bud,bud,bud,bud,flower,flower,flower,done,done,done,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,6R,3,,5/28/18,bud,bud,bud,bud,bud,bud,flower,flower,flower,done (1 petal left),done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,6Y,3,,5/28/18,bud,bud,bud,bud,bud,bud,flower,flower,flower,flower (2 petal left),done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,7R,3,,5/28/18,bud,bud,bud,bud,bud,bud,flower,flower,flower,flower (2 petal left),done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,7Y,4,,5/28/18,bud,bud,bud,bud,bud,bud,flower,flower,flower,flower,done,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,8P,2,,5/31/18,bud,flower,flower,flower (one petal left),done,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,8R,2,,5/31/18,bud,bud,flower (mostly open),flower,done,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rosa multiflora,multiflora rose,8Y,NA,dead,5/31/18,bud,bud,bud,bud (possibly dead),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,1,3,Note from 6/10/19: was mistakenly IDed as Rubus argutus,5/28/18,bud,bud,flower,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,2,3,counting half open flower as open,5/28/18,bud,bud (half open),flower,flower,flower (one petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,3,3,counting half open flower as open,5/28/18,bud,bud (half open),flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,4,4,counting half open flower as open,5/28/18,bud,bud (half open),flower,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,5,2,,5/28/18,bud,flower,flower,flower (petals mostly gone),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,6,NA,dead,5/28/18,bud,bud,bud,bud (may be dead),bud (dead?),dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,7,2,,5/28/18,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,8,2,,5/28/18,bud,bud,flower,flower,flower (one petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,9,2,counting half open flower as open,5/28/18,bud,bud (half open),flower,flower (petals mostly gone),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,10,2,counting half open flower as open,5/28/18,bud,bud (half open),flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,11,2,,5/28/18,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,12,2,,5/28/18,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,13,2,,5/28/18,bud,flower,flower,flower (only 1 petal left),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,14,2,,5/28/18,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,15,1,,5/28/18,bud,flower,flower (no petals left),flower (petals mostly gone),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,16,2,,5/28/18,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,17,2,counting half open flower as open,5/28/18,bud,bud (half open),flower,done,flower (one petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,18,1,counting half open flower as open,5/28/18,bud,bud,bud,bud,bud,bud (mostly open),flower (one petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,19,2,,5/28/18,bud,flower,flower,flower (petals mostly gone),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,20,2,,5/28/18,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,21,1,,5/28/18,bud,bud,flower (missing almost all petals),flower (only 1 petal left),flower (one petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,22,1,,5/28/18,bud,flower,flower (missing almost all petals),done,flower (one petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,23,NA,dead,5/28/18,bud,bud (half open),dead,dead,dead,dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,24,1,,5/28/18,bud,flower,flower (missing almost all petals),done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,25,1,,5/28/18,bud,bud,flower,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,10P,NA,stem snapped off. originally marked as rose: actually blackberry,5/31/18,bud,bud,flower,NA (looks like it snapped off of plant),NA,NA,NA,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,10R,4,originally marked as rose: actually blackberry,5/31/18,bud,bud,flower,flower,flower,flower,flower (1 petal left),done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,10Y,2,originally marked as rose: actually blackberry,5/31/18,bud,flower,flower,done,done,done,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,9P,1,"originally marked as rose: actually blackberry. bud one day, flower was done flowering the next day",5/31/18,bud,bud,bud,bud,bud,bud,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Rubus allegheniensis,blackberry,9Y,3,originally marked as rose: actually blackberry. counting half open flower as open.,5/31/18,bud,bud,bud (half open),flower,flower,flower (a few petals left),done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,1P,5,counting half open flower as open,5/29/18,bud,bud,bud,bud,bud,bud,flower,flower,flower,flower,half open,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,1R,3,"was open, closed, then half open for a day",5/29/18,bud,bud,bud,bud,flower,flower,flower,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,1Y,2,,5/29/18,bud,bud,bud,flower,flower,closed,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,2P,2,counting half open flower as open,5/29/18,bud,bud,bud,bud,flower,half closed,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,2R,2,"was open, closed, then half open for a day",5/29/18,bud,bud,bud,bud,bud,flower,closed,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,2Y,1,,5/29/18,bud,bud,bud,flower,closed,closed,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,3P,1,,5/29/18,bud,bud,bud,flower,closed,closed,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,3R,2,"was open, closed, then half open for a day",5/29/18,bud,bud,bud,bud,bud,flower,flower,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,3Y,2,"counting half open flower as open. Also, was closed, then half open for a day",5/29/18,bud,bud,bud,bud,bud,half closed,flower,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,4P,3,"counting half open flower as open. Also, was closed, then half open for a day",5/29/18,bud,bud,bud,bud,flower,flower,half open,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,4R,1,"was open, closed, then half open for a day",5/29/18,bud,bud,bud,flower,closed,closed,closed,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,4Y,5,,5/29/18,bud,bud,bud,bud,bud,flower,flower,open,flower,flower,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,5P,3,counting half open flower as open,5/29/18,bud,bud,bud,bud,bud,flower,flower,half closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,5R,2,counting half open flower as open,5/29/18,bud,bud,bud,bud,flower,half open,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,5Y,3,counting half open flower as open,5/29/18,bud,bud,bud,bud,bud,half closed,flower,half closed,closed,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,6P,NA,,5/31/18,bud,bud,bud,bud,bud?,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,6R,1,,5/31/18,bud,flower,closed,closed,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,6Y,2,,5/31/18,bud,flower,flower,closed,closed,closed,closed,closed,closed,closed,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,7P,3,counting half open flower as open,5/29/18,bud,bud,bud,bud,bud,bud,bud?,closed,flower,flower,half open,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,7R,3,"counting half open flower as open. Also, was closed, then half open for a day",5/29/18,bud,bud,bud,flower,flower,half closed,closed,closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Stellaria graminea,chickweed,7Y,3,counting half open flower as open,5/29/18,bud,bud,bud,bud,bud,bud,half open,half closed,half open,closed,closed,closed,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,10R,1,"bud one day, flower was done flowering the next day",5/28/18,bud,bud,bud,bud,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,10Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,1R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,1Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,2R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,2Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,3R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,3Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,4R,2,,5/28/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,4Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,5R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,5Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,6R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,6Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,7R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,7Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,8R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,8Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,9R,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Maryland,McElwain,Viburnum dentatum,viburnum,9Y,1,,5/28/18,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,1,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,2,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,3,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,4,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,5,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,6,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,7,2,,7/9/18,bud,bud,bud,flower,flower,done,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,8,3,,7/9/18,bud,bud,bud,flower,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,9,3,,7/9/18,bud,bud,bud,flower,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,10,2,,7/9/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,11,2,,7/9/18,bud,bud,bud,bud,flower,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,12,1,,7/9/18,bud,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Massachusetts,Upton,Vicia cracca,tufted vetch,13,1,,7/9/18,bud,bud,bud,bud,bud,flower,done,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,1B,5,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,1R,5,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,1W,5,hard to tell if flowering on one day. open 5 or 6 days,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,1Y,5,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,2B,4,,6/13/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering (flower head drooping),flowering,flowering,senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,2R,4,hard to tell if flowering on one day. open 4 or 5 days,6/13/19,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering (flower head drooping),flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,2W,4,,6/13/19,bud,bud,bud,bud,NA,bud,bud,flowering,flowering (flower head drooping),flowering,flowering,senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,2Y,4,,6/13/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering (flower head drooping),flowering,flowering,senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,3B,5,,6/13/19,bud,bud,bud,bud,(bud: just starting to open),flowering,flowering,flowering,flowering (flower head drooping),flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,3R,6,hard to tell if flowering on one day. open 6 or 7 days,6/13/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering (looks a little old) (flower head drooping),flowering,flowering (looks kind of senesced) (have picture),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,3W,5,hard to tell if flowering on one day. open 5 or 6 days,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering (flower head drooping),flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,3Y,6,hard to tell if flowering on one day. open 6 or 7 days,6/13/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering (flower head drooping),flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,4B,5,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,4R,3,hard to tell if flowering on one day. open 3 or 4 days,6/13/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,4W,4,hard to tell if flowering on one day. open 4 or 5 days,6/13/19,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,4Y,4,hard to tell if flowering on one day. open 4 or 5 days,6/13/19,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering (looks kind of senesced),senesced,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,5B,5,could be 4 days: hard to tell if senesced on third day,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering (looks a little old),flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,5R,5,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,5W,4,could be 3 days: hard to tell if senesced,6/13/19,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering (looks a little old),flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Asclepias syriaca,common milkweed,5Y,5,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,13_1,2,"not seen on 6/21, was senesced 6/22",6/18/19,bud,flowering,flowering,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,13_2,2,"not seen on 6/21, was senesced 6/22",6/18/19,bud,flowering,flowering,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,13_3,1,,6/18/19,bud,flowering,senesced,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,13_4,1,,6/18/19,bud,flowering,senesced,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,13_5,1,,6/18/19,bud,flowering,senesced,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,14_1,2,"not seen on 6/21, was senesced 6/22",6/18/19,bud,flowering,flowering,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,14_2,2,"not seen on 6/21, was senesced 6/22",6/18/19,bud,flowering,flowering,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,14_3,2,"not seen on 6/21, was senesced 6/22",6/18/19,bud,flowering,flowering,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,14_4,2,"not seen on 6/21, was senesced 6/22",6/18/19,bud,flowering,flowering,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,14_5,1,,6/18/19,bud,flowering,senesced,not seen,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,2_1,2,hard to tell if senesced on day 3,6/18/19,bud,flowering,flowering,senesced (?),head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,2_2,2,hard to tell if senesced on day 3,6/18/19,bud,flowering,flowering,senesced (?),head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,2_3,2,hard to tell if senesced on day 3,6/18/19,bud,flowering,flowering,senesced (?),head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,2_4,1,,6/18/19,bud,flowering,senesced,NA,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,2_5,1,,6/18/19,bud,flowering,senesced,NA,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,20_1,2,hard to tell if senesced on day 3,6/18/19,bud,flowering,flowering,senesced (?),head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,20_2,2,hard to tell if senesced on day 3,6/18/19,bud,flowering,flowering,senesced (?),head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,20_3,1,,6/18/19,bud,flowering,senesced,NA,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,20_4,1,,6/18/19,bud,flowering,senesced,NA,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,20_5,1,,6/18/19,bud,flowering,senesced,NA,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,5_1,3,,6/20/19,bud,flowering,flowering,flowering,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,5_2,3,,6/20/19,bud,flowering,flowering,flowering,head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,6_1,2,"probably 2, could be up to 4 days?",6/18/19,bud,flowering,flowering,not seen,"saw some gold, don’t know if open",head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,6_2,2,"probably 2, could be up to 4 days?",6/18/19,bud,flowering,flowering,not seen,"saw some gold, don’t know if open",head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,6_3,2,"probably 2, could be up to 4 days?",6/18/19,bud,flowering,flowering,not seen,"saw some gold, don’t know if open",head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,6_4,1,,6/18/19,bud,flowering,senesced,not seen,"saw some gold, don’t know if open",head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cirsium arvense,thistle,6_5,1,,6/18/19,bud,flowering,senesced,not seen,"saw some gold, don’t know if open",head senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,1B,1,,6/13/19,bud,bud,flowering,senesced,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,1R,2,,6/13/19,bud,flowering,flowering,senesced,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,1W,2,,6/13/19,bud,bud,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,1Y,3,,6/13/19,bud,flowering,flowering,flowering,gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,2B,1,,6/13/19,bud,bud,bud,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,2R,1,,6/13/19,bud,bud,bud,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,2W,2,,6/13/19,bud,bud,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,2Y,1,,6/13/19,bud,bud,bud,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,3B,1,"bud one day, flower was done flowering the next day",6/13/19,bud,bud,bud,senesced,(string fell off),senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,3R,1,"bud one day, flower was done flowering the next day",6/13/19,bud,bud,bud,senesced,(string fell off),senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,3W,2,,6/13/19,bud,bud,bud,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,3Y,2,,6/13/19,bud,bud,bud,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,4B,2,,6/13/19,bud,bud,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,4R,3,,6/13/19,bud,bud,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,4W,3,,6/13/19,bud,flowering,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,4Y,3,,6/13/19,bud,flowering,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,5B,2,,6/13/19,bud,bud,bud,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,5R,1,"bud one day, flower was done flowering the next day",6/13/19,bud,bud,bud,bud,bud,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,5W,1,,6/13/19,bud,bud,bud,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Cornus sericea,dogwood,5Y,2,,6/13/19,bud,bud,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,1B,2,"disappeared after 2 days, probably done blooming",6/13/19,bud,bud,bud,flowering,flowering,gone,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,1R,3,"disappeared after 3 days, probably done blooming",6/14/19,bud,bud,flowering,flowering,flowering,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,1W,4,,6/13/19,bud,bud,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,1Y,4,"disappeared after 4 days, probably done blooming",6/13/19,bud,flowering,flowering,flowering,flowering,gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,2B,3,,6/13/19,bud,bud,bud,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,2R,4,,6/13/19,bud,bud,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,2W,3,,6/13/19,bud,bud,flowering,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,2Y,3,,6/13/19,bud,bud,flowering,flowering,flowering,gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,3B,2,,6/13/19,bud,bud,flowering,flowering,senesced,senesced,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,3R,1,,6/14/19,bud,bud,bud,bud,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,3W,2,,6/13/19,bud,bud,bud,bud,flowering,flowering,senesced,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,3Y,NA,disappeared without being seen as flower,6/13/19,bud,bud,bud,gone,gone,gone,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,4B,2,,6/13/19,bud,bud,bud,bud,flowering,flowering,senesced,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,4R,2,"disappeared after 2 days, probably done blooming",6/13/19,bud,bud,bud,bud,bud,bud,flowering,flowering,gone,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,4W,1,,6/13/19,bud,recorded as flowering (probably should be bud),bud,bud,flowering,senesced,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,4Y,2,,6/13/19,bud,bud,bud,bud,bud,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,5B,4,,6/13/19,bud,flowering,flowering,flowering,flowering,senesced,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,5R,4,,6/13/19,bud,flowering,flowering,flowering,flowering,senesced,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,5W,4,,6/13/19,bud,bud,flowering,flowering,flowering,flowering,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Galium sp,galium sp,5Y,2,"disappeared after 2 days, probably done blooming",6/13/19,bud,bud,flowering,flowering,gone,senesced,gone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,11B,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering",6/13/19,bud,bud,flowering,senesced or gone,senesced or gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,11W,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering.  open for 1 or 2 days",6/13/19,bud,bud,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,12R,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),senesced or gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,12W,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,13B,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering.  open for 1 or 2 days",6/13/19,bud,bud,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,13R,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering.  open for 1 or 2 days",6/13/19,bud,bud,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,13W,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering.  open for 1 or 2 days",6/13/19,bud,bud,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,13Y,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering.  open for 1 or 2 days",6/13/19,bud,bud,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,2B,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,2W,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),senesced or gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,4B,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering",6/14/19,bud,bud,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,4W,1,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering",6/14/19,bud,bud,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,5B,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,5R,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,5W,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,5Y,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,8B,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,8R,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,8W,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),"recorded as flowering, with general note that 'flowers look dead'",senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Maryland,Nuetzel,Lonicera japonica,honeysuckle,8Y,2,"honeysuckle data not recorded well, makes it hard to tell how long they were flowering. open 2 or 3 days",6/13/19,bud,flowering,flowering,flowering (general note that flowers look 'pretty yellow brown + gnarly' this day),senesced or gone,senesced,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC10B,2,,6/27/19,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC10R,3,,6/27/19,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC1B,1,"bud one day, flower was done flowering the next day",6/27/19,bud,bud,bud,bud,bud,bud,bud,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC1R,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC2G,2,,6/27/19,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC2S,3,,6/27/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC3B,2,,6/27/19,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC3R,2,,6/27/19,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC4B,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC4R,3,,6/27/19,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC5B,4,,6/27/19,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC5R,5,,6/27/19,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC6B,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC6R,3,,6/27/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC7B,1,,6/27/19,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC7R,3,,6/27/19,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC8B,5,,6/27/19,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC8R,4,,6/27/19,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC9B,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Apocynum cannabinum,dogbane,AC9R,2,,6/27/19,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,10B,3,,7/26/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,10R,5,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,1B,6,,7/26/19,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,1R,2,,7/26/19,bud,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,2B,9,,7/26/19,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,2R,9,,7/26/19,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,3B,2,,7/26/19,bud,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,3R,4,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,4B,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,4R,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,5B,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,5R,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,6B,6,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,6R,11,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,7B,9,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,7R,10,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,8B,4,,7/26/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,8R,5,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,9B,10,,7/26/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA
+2019,Massachusetts,Tufts,Daucus carota,queen annes lace,9R,10,,7/26/19,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA1,1,"not recorded on one day, could have been open for 2 days",6/27/19,bud,?,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA1,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA10,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA10,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA2,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA2,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA3,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA3,3,,6/27/19,bud,bud,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA4,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA4,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA5,1,,6/27/19,bud,bud,bud,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA5,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA6,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA6,4,,6/27/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA7,1,,6/27/19,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA7,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA8,2,,6/27/19,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA8,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA9,3,,6/27/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Erigeron annuus,fleabane,EA9,4,,6/27/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL1-2,3,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL1-2,4,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL1-20,5,,6/12/19,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL1-2B,5,,6/12/19,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL1-2G,4,,6/12/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL1-2R,4,,6/12/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL10,6,,6/12/19,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL10B,4,,6/12/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL10B,4,,6/12/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL11,5,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL12,4,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL12,7,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL30,4,,6/12/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL3B,4,,6/12/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL40,2,"hard to mark, check stamens for color",6/12/19,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL4B,3,,6/12/19,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL5,1,,6/12/19,bud,bud,bud,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL5,1,,6/12/19,bud,bud,bud,bud,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL6B,6,,6/12/19,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL6B,7,,6/12/19,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL7,5,,6/12/19,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL7B,6,,6/12/19,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL8,5,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL8,5,,6/12/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL9,7,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Galium mollugo,hedge bedstraw,GAL9,7,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC10B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC10R,6,,7/8/19,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC1B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC1R,3,,7/8/19,bud,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC2B,5,,7/8/19,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC2R,3,,7/8/19,bud,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC3B,3,,7/8/19,bud,bud,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC3R,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC4B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC4R,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC5B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC5R,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC6B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC6R,5,,7/8/19,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC7B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC7R,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC8B,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC8R,3,,7/8/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC9B,5,,7/8/19,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Lysimachia terrestris,swamp candles,SC9R,4,,7/8/19,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,10B,3,,7/22/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,10Y,1,"bud one day, flower was done flowering the next day",7/22/19,bud,bud,bud,bud,bud,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,1B,3,,7/22/19,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,1Y,2,,7/22/19,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,2B,4,,7/22/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,2Y,3,,7/22/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,3B,3,,7/22/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,3Y,2,,7/22/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,4B,3,,7/22/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,4Y,1,,7/22/19,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,5B,2,,7/22/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,5Y,1,"bud one day, flower was done flowering the next day",7/22/19,bud,bud,bud,bud,bud,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,6B,1,,7/22/19,bud,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,6Y,2,,7/22/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,7B,4,,7/22/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,7Y,4,,7/22/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,8B,2,,7/22/19,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,8Y,2,,7/22/19,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,9B,2,,7/22/19,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Lythrum salicaria,purple loosestrife,9Y,4,,7/22/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA1,2,,6/14/19,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA1,3,,6/14/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA13,3,,6/14/19,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA14,3,,6/14/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA14,3,,6/14/19,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA2,3,,6/14/19,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA2 ,3,,6/14/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA3,1,,6/14/19,bud,bud,bud,bud,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA4,3,,6/14/19,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA5,3,,6/14/19,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA6,3,,6/14/19,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA6,3,,6/14/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Pilosella caespitosa,hawkweed,HA7,2,,6/14/19,bud,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS1-2,4,transect 1,6/12/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS1-2B,1,transect 1,6/12/19,bud,bud,bud,bud,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS10,4,,6/12/19,bud,bud,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS11,5,,6/12/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS12B,3,,6/12/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS13,4,,6/12/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS14,4,open 4 or 5 days,6/12/19,bud,bud-flowering (would be open if sunny),flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS15-16,4,open 4 or 5 days,6/12/19,bud,bud-flowering (would be open if sunny),flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS15-16B,3,open 3 or 4 days,6/12/19,bud,bud-flowering (would be open if sunny),flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS17,5,"b/w transect 1 & 3, closer to 1. open 5 or 6 days",6/12/19,bud,bud-flowering (would be open if sunny),flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS18,2,"b/w transect 1 & 3, closer to 3",6/12/19,bud,bud,bud,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS19,4,b/w transects 2 & 3. open 4 or 5 days,6/12/19,bud,bud-flowering (would be open if sunny),flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS3,4,transect 1,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS4,1,transect 1,6/12/19,bud,bud,bud,bud,bud,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS6,4,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS7,5,,6/12/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS8,3,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Potentilla simplex,common cinquefoil,PS8B,3,open 3 or 4 days,6/12/19,bud,bud-flowering (would be open if sunny),flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,1B,1,"bud one day, flower was done flowering the next day",7/13/19,bud,bud,bud,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,1G,2,,7/13/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,1R,2,,7/13/19,bud,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,2B,4,,7/13/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,2G,4,,7/13/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,2R,2,,7/13/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,3B,3,,7/13/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,3G,2,,7/13/19,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,3R,4,,7/13/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,4B,3,,7/13/19,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,4G,3,,7/13/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,4R,3,,7/13/19,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,5B,4,,7/13/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,5G,2,,7/13/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,5R,3,,7/13/19,bud,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,6B,2,,7/13/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,6G,2,,7/13/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Rudbeckia hirta,black eyed susan,6R,2,,7/13/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,10B,1,"bud one day, flower was done flowering the next day",7/26/19,bud,bud,bud,bud,bud,bud,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,10R,6,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,1B,7,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,1R,7,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,2B,7,,7/26/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,2R,7,,7/26/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,3B,5,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,3R,4,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,4B,7,,7/26/19,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,4R,7,,7/26/19,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,5B,5,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,5R,7,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,6B,7,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,6R,6,,7/26/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,7B,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,7R,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,8B,8,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,8R,7,,7/26/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,9B,6,,7/26/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA
+2019,Massachusetts,Harvard,Solidago altissima,tall goldenrod,9R,6,,7/26/19,bud,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA
+2019,Massachusetts,Tufts,Stellaria graminea,chickweed,2R,5,,7/21/19,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Stellaria graminea,chickweed,7R,4,,7/21/19,bud,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Tufts,Stellaria graminea,chickweed,8R,1,,7/21/19,bud,bud,bud,bud,bud,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG1R,NA, stem broke,7/8/19,bud,bud,flowering,flowering, stem broke, stem broke,bud,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG2S,NA, stem broke,7/8/19,bud,flowering,flowering,done/dead,NA,NA, stem broke,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG3B,NA,,7/11/19,bud,bud,bud,bud,bud,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG3R,NA,,7/11/19,bud,bud,bud,bud,bud,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG3S,NA,,7/11/19,bud,bud,bud,bud,bud,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG4B,1,,7/8/19,bud,bud,bud,bud,bud,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG4R,NA,,7/8/19,bud,bud,bud,bud,bud,bud,bud,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG4S,1,,7/8/19,bud,bud,bud,bud,bud,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG5B,5,,7/8/19,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG5R,3,,7/8/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG5S,NA,,7/8/19,bud,bud,bud,bud,bud,bud,bud,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG6B,NA,,7/8/19,bud,bud,bud,bud,bud,bud,bud,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG6R,NA,,7/8/19,bud,bud,bud,bud,bud,bud,bud,done/dead?,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Stellaria graminea,chickweed,SG6S,3,was recorded as 2 (flowering) on first day (partly erased on datasheet). don’t know if it actually started as a flower. open 3 or 4 days,7/8/19,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead?,bud,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,1,6,previous meadow rue longevity data lost - this was the most samples it was possible to get,7/26/19,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,1B,5,,7/26/19,bud,flowering,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,1Y,4,,7/26/19,bud,flowering,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,2B,3,,7/26/19,bud,bud,flowering,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,2R,2,,7/26/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,2Y,1,lived less than one day,7/26/19,bud,bud,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,3B,2,,7/26/19,bud,bud,flowering,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,3R,1,,7/26/19,bud,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Harvard,Thalictrum pubescens,tall meadow rue,3Y,1,,7/26/19,bud,bud,flowering,done/dead,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL1,1,"bud one day, flower was done flowering the next day",6/12/19,bud,bud,bud,bud,bud,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL1,6,transect 1,6/12/19,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL10,3,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL10,5,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL2,2,,6/12/19,bud,bud,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL2,4,,6/12/19,bud,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL3,4,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL3,5,,6/12/19,bud,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL4,3,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL4,2,,6/12/19,bud,bud,bud,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL5,4,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL5,7,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL6,4,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL6,5,,6/12/19,bud,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL7,3,,6/12/19,bud,bud,bud,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL7,6,,6/12/19,bud,bud,bud,flowering,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL9,2,,6/12/19,bud,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,CL9,2,,6/12/19,bud,bud,bud,bud,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,RC8,1,,6/12/19,bud,bud,bud,bud,bud,bud,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Massachusetts,Upton,Trifolium pratense,pink clover,RC8,5,,6/12/19,bud,bud,flowering,flowering,flowering,flowering,flowering,done/dead,done/dead,done/dead,done/dead,done/dead,done/dead,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,1,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,2,2,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,3,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,4,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,5,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,6,2,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,7,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,8,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,9,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,10,2,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,11,2,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,12,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,13,2,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,14,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2019,Washington,NA,Achillea millefolium,yarrow,15,1,data collected by Rachael in WA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
